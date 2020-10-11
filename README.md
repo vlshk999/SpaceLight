@@ -12,17 +12,17 @@ Jak funguje hra:
 * hráč se nemá jak bránit - musí se nepřátelům vyhnout/obejít a nebo je oslnit světlem
 * cílem je v každé úrovni posbírat všechny klíče, které otevřou dveře do dalšího levelu + klíče budou vyprávět příběh????
 
-*PŘÍBĚH 
+PŘÍBĚH 
 ===============
 -V rozvinutější fázi hry, na scénáři se pracuje.
 
-*ZVUK
+ZVUK
 ===============
 - horrorové zvuky
 - bum bam bum efekty
 - dabing (rozvinutější fáze hry)
 
-*PROGRAMY: 
+PROGRAMY: 
 ===============
 - vývojové prostředí GODOT 
 - audio v FL Studio

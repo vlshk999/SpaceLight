@@ -6,11 +6,9 @@ Jak funguje hra:
 ===============
 
 * půjde o skákačku
-* hráč je kosmonaut na lodi, může se hýbat, skákat, brát předměty
+* hráč je kosmonaut na lodi, může se hýbat, skákat, sbírat předměty
 * temné prostředí, horrorové prvky, vesmírná loď
 * různí nepřátelé
--"venom blobs"
-
 * hráč se nemá jak bránit - musí se nepřátelům vyhnout/obejít a nebo je oslnit světlem
 * cílem je v každé úrovni posbírat všechny klíče, které otevřou dveře do dalšího levelu + klíče budou vyprávět příběh????
 
@@ -20,11 +18,11 @@ Jak funguje hra:
 
 *ZVUK
 ===============
--horrorové zvuky
--bum bam bum efekty
--dabing
+- horrorové zvuky
+- bum bam bum efekty
+- dabing (rozvinutější fáze hry)
 
-*programy: 
+*PROGRAMY: 
 ===============
 - vývojové prostředí GODOT 
 - audio v FL Studio

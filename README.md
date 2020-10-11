@@ -14,7 +14,7 @@ Jak funguje hra:
 
 PŘÍBĚH 
 ===============
--V rozvinutější fázi hry, na scénáři se pracuje.
+- V rozvinutější fázi hry, na scénáři se pracuje.
 
 ZVUK
 ===============

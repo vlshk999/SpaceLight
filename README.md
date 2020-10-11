@@ -10,14 +10,13 @@ Jak funguje hra:
 * temné prostředí, horrorové prvky, vesmírná loď
 * různí nepřátelé
 -"venom blobs"
-- 
--
+
 * hráč se nemá jak bránit - musí se nepřátelům vyhnout/obejít a nebo je oslnit světlem
 * cílem je v každé úrovni posbírat všechny klíče, které otevřou dveře do dalšího levelu + klíče budou vyprávět příběh????
 
 *PŘÍBĚH 
 ===============
-V rozvinutější fázi hry, na scénáři se pracuje.
+-V rozvinutější fázi hry, na scénáři se pracuje.
 
 *ZVUK
 ===============
@@ -29,4 +28,4 @@ V rozvinutější fázi hry, na scénáři se pracuje.
 ===============
 - vývojové prostředí GODOT 
 - audio v FL Studio
--bude potřeba něco i kreslit (v řešení)
+- bude potřeba něco i kreslit (v řešení)

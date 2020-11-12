@@ -12,7 +12,7 @@ Jak funguje hra:
 * různí nepřátelé
 * hráč se nemá jak bránit - musí se nepřátelům vyhnout/obejít a nebo je oslnit světlem pomocí své svítilny.
 - avšak svítilna není nekonečná, tak hráč musí po své cestě sbírat baterie (které si je potřeba šetřit)
-*napříč cestou budou různá puzzle - hráč některé z nich bude moct přeskočit pomocí baterie, avšak ne vždy to bude možné.
+* napříč cestou budou různá puzzle - hráč některé z nich bude moct přeskočit pomocí baterie, avšak ne vždy to bude možné.
 * cílem je v každé úrovni posbírat všechny klíče, které otevřou dveře do dalšího levelu + klíče budou vyprávět příběh 
 
 PŘÍBĚH 
@@ -24,7 +24,7 @@ PŘÍBĚH
 
 ZVUK
 ===============
-*významná stránka hry
+* významná stránka hry
 - horrorové zvuky
 - bum bam bum efekty
 - dabing (rozvinutější fáze hry

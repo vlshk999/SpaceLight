@@ -8,6 +8,7 @@ Jak funguje hra:
 * půjde o skákačku s puzzle elementy.
 * hráč je kosmonaut na lodi, může se hýbat, skákat, sbírat předměty
 * temné prostředí, horrorové prvky, vesmírná loď
+*smrt bude instantní, když se hráče dotkne příšera, umírá a vrací se k poslednímu checkpointu.
 * různí nepřátelé
 * hráč se nemá jak bránit - musí se nepřátelům vyhnout/obejít a nebo je oslnit světlem pomocí své svítilny.
 - avšak svítilna není nekonečná, tak hráč musí po své cestě sbírat baterie (které si je potřeba šetřit)

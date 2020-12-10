@@ -20,11 +20,9 @@ PŘÍBĚH
 - Hlavní hrdina ztroskotá na záchranné stanici a snaží se zjistit, co se zde stalo. Avšak cestu mu kříží neznámé mimozemské formy a postupně začíná šílet a neví,
  co je reálné a co ne.
 
- 
-
 ZVUK
 ===============
-* významná stránka hry
+- významná stránka hry
 - horrorové zvuky
 - bum bam bum efekty
 - dabing (rozvinutější fáze hry

@@ -44,7 +44,7 @@ ODKAZY:
 - [ROZVRH](https://github.com/vlshk999/SpaceLight/blob/main/DOC/rozvrh.md)
 - [DESIGN HRY](https://github.com/vlshk999/SpaceLight/blob/main/DOC/design.md)
 - [WIREFRAME](https://github.com/vlshk999/SpaceLight/blob/main/DOC/wireframe.png)
-- [USECASE DIAGRAM] (https://github.com/vlshk999/SpaceLight/tree/main/DOC/USE-CASE)
+- [USECASE DIAGRAM](https://github.com/vlshk999/SpaceLight/tree/main/DOC/USE-CASE)
 
 ZDROJE:
 ============

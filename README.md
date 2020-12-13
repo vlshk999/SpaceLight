@@ -1,13 +1,13 @@
 # Hra SpaceLight
 ## Ondřej Vlášek & Matěj Blaha
-### OAUH 2020/2021
+### OAUH 2020/2021 (třetí ročník)
 
 Jak funguje hra:
 ===============
-* půjde o skákačku s puzzle elementy.
+* skákačka s puzzle elementy.
 * hráč je kosmonaut na lodi, může se hýbat, skákat, sbírat předměty
 * temné prostředí, horrorové prvky, vesmírná loď
-* smrt bude instantní, když se hráče dotkne příšera, umírá a vrací se k poslednímu checkpointu.
+* smrt je instantní, když se hráče dotkne Bubák, hráč umírá a vrací se k poslednímu checkpointu.
 * různí nepřátelé
 * hráč se nemá jak bránit - musí se nepřátelům vyhnout/obejít a nebo je oslnit světlem pomocí své svítilny.
 - avšak svítilna není nekonečná, tak hráč musí po své cestě sbírat baterie (které si je potřeba šetřit)
@@ -18,23 +18,30 @@ PŘÍBĚH
 ===============
 - Hlavní hrdina ztroskotá na záchranné stanici a snaží se zjistit, co se zde stalo. Avšak cestu mu kříží neznámé mimozemské formy a postupně začíná šílet a neví,
  co je reálné a co ne.
+ 
+ OVLÁDÁNÍ
+===============
+-A a D pro pohyb, mezerník (později i W) pro skok
+-(později) F pro použití svítilny
+-(později) E pro použití předmětu
+-(později) S pro skrčení se
 
 ZVUK
 ===============
 - významná stránka hry
 - horrorové zvuky
-- bum bam bum efekty
-- dabing (rozvinutější fáze hry
+- dabing (v pozdější fázi hry)
 
-PROGRAMY: 
+PROGRAMY POUŽITÉ K TVORBĚ HRY A VŠEHO OKOLO: 
 ===============
 - vývojové prostředí Unity
 - audio v FL Studio 12
 - bude potřeba něco i kreslit (Piskel)
+
 
 ODKAZY: 
 ===============
 [ROZVRH](https://github.com/vlshk999/SpaceLight/blob/main/DOC/rozvrh.md)
 [DESIGN HRY](https://github.com/vlshk999/SpaceLight/blob/main/DOC/design.md)
 [WIREFRAME](https://github.com/vlshk999/SpaceLight/blob/main/DOC/wireframe.png)
-[DOKUMENTACE] ()
+[USECASE DIAGRAM] ()

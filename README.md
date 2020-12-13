@@ -4,7 +4,6 @@
 
 Jak funguje hra:
 ===============
-
 * půjde o skákačku s puzzle elementy.
 * hráč je kosmonaut na lodi, může se hýbat, skákat, sbírat předměty
 * temné prostředí, horrorové prvky, vesmírná loď
@@ -32,3 +31,9 @@ PROGRAMY:
 - vývojové prostředí Unity
 - audio v FL Studio 12
 - bude potřeba něco i kreslit (Piskel)
+
+ODKAZY: 
+===============
+[ROZVRH](https://github.com/vlshk999/SpaceLight/blob/main/DOC/rozvrh.md)
+[DESIGN HRY](https://github.com/vlshk999/SpaceLight/blob/main/DOC/design.md)
+[WIREFRAME](https://github.com/vlshk999/SpaceLight/blob/main/DOC/wireframe.png)

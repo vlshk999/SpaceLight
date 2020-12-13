@@ -31,4 +31,4 @@ PROGRAMY:
 ===============
 - vývojové prostředí Unity
 - audio v FL Studio 12
-- bude potřeba něco i kreslit (Adobe Photoshop, Cinema 4D, Blender)
+- bude potřeba něco i kreslit (Piskel)

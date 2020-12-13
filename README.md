@@ -48,4 +48,4 @@ ODKAZY:
 
 ZDROJE:
 ============
-[Tvorba 2D hry v Unity] (https://www.youtube.com/watch?v=lYAM5NkcZI8&list=PLk1q6pqAUJjWVPpbah30PxpxaKpcaUR-Y&ab_channel=BroccoliGames)
+[Tvorba 2D hry v Unity](https://www.youtube.com/watch?v=lYAM5NkcZI8&list=PLk1q6pqAUJjWVPpbah30PxpxaKpcaUR-Y&ab_channel=BroccoliGames)

@@ -21,10 +21,10 @@ PŘÍBĚH
  
  OVLÁDÁNÍ
 ===============
--A a D pro pohyb, mezerník (později i W) pro skok
--(později) F pro použití svítilny
--(později) E pro použití předmětu
--(později) S pro skrčení se
+- A a D pro pohyb, mezerník (později i W) pro skok
+- (později) F pro použití svítilny
+- (později) E pro použití předmětu
+- (později) S pro skrčení se
 
 ZVUK
 ===============
@@ -41,11 +41,11 @@ PROGRAMY POUŽITÉ K TVORBĚ HRY A VŠEHO OKOLO:
 
 ODKAZY: 
 ===============
-[ROZVRH](https://github.com/vlshk999/SpaceLight/blob/main/DOC/rozvrh.md)
-[DESIGN HRY](https://github.com/vlshk999/SpaceLight/blob/main/DOC/design.md)
-[WIREFRAME](https://github.com/vlshk999/SpaceLight/blob/main/DOC/wireframe.png)
-[USECASE DIAGRAM] ()
+- [ROZVRH](https://github.com/vlshk999/SpaceLight/blob/main/DOC/rozvrh.md)
+- [DESIGN HRY](https://github.com/vlshk999/SpaceLight/blob/main/DOC/design.md)
+- [WIREFRAME](https://github.com/vlshk999/SpaceLight/blob/main/DOC/wireframe.png)
+- [USECASE DIAGRAM] (https://github.com/vlshk999/SpaceLight/tree/main/DOC/USE-CASE)
 
 ZDROJE:
 ============
-[Tvorba 2D hry v Unity](https://www.youtube.com/watch?v=lYAM5NkcZI8&list=PLk1q6pqAUJjWVPpbah30PxpxaKpcaUR-Y&ab_channel=BroccoliGames)
+- [Tvorba 2D hry v Unity](https://www.youtube.com/watch?v=lYAM5NkcZI8&list=PLk1q6pqAUJjWVPpbah30PxpxaKpcaUR-Y&ab_channel=BroccoliGames)

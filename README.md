@@ -45,3 +45,7 @@ ODKAZY:
 [DESIGN HRY](https://github.com/vlshk999/SpaceLight/blob/main/DOC/design.md)
 [WIREFRAME](https://github.com/vlshk999/SpaceLight/blob/main/DOC/wireframe.png)
 [USECASE DIAGRAM] ()
+
+ZDROJE:
+============
+[Tvorba 2D hry v Unity] (https://www.youtube.com/watch?v=lYAM5NkcZI8&list=PLk1q6pqAUJjWVPpbah30PxpxaKpcaUR-Y&ab_channel=BroccoliGames)
